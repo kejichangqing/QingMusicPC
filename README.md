@@ -1,3 +1,5 @@
+# 下载
+https://github.com/kejichangqing/QingMusicPC/releases
 # 音源
 https://13413.kstore.vip/QingMusic/music.json
 
