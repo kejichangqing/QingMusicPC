@@ -1,5 +1,9 @@
 # QingMusicPC
 青听音乐电脑版
+# 音源
+https://13413.kstore.vip/QingMusic/music.json
+
+打开【设置】-添加音源，在线导入粘贴音源导入即可
 # 安装包说明
 ## MAC包
 arm64：给 Apple Silicon 芯片使用，也就是 M1、M2、M3、M4 系列 MacBook。
