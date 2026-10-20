@@ -1,5 +1,6 @@
 # QingMusicPC
 青听音乐电脑版
+(https://github.com/kejichangqing/QingMusicPC/blob/main/ScreenShot_2026-10-20_132503_362.png)
 # 音源
 https://13413.kstore.vip/QingMusic/music.json
 
