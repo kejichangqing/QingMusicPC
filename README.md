@@ -1,7 +1,3 @@
-# QingMusicPC
-青听音乐电脑版
-![青听音乐界面](https://github.com/kejichangqing/QingMusicPC/blob/main/ScreenShot_2026-10-20_132503_362.png)
-![青听音乐界面](https://github.com/kejichangqing/QingMusicPC/blob/main/ScreenShot_2026-10-20_132521_654.png)
 # 音源
 https://13413.kstore.vip/QingMusic/music.json
 
@@ -15,3 +11,7 @@ x64：给 Intel 芯片的 Mac 使用，也就是较老的 Intel 版 MacBook。
 x64：给 64 位 Windows 使用，现在绝大多数 Windows 10/11 电脑都是这个，优先发这个。
 
 ia32：32 位 Windows 使用，主要兼容很老的电脑。
+# QingMusicPC
+青听音乐电脑版
+![青听音乐界面](https://github.com/kejichangqing/QingMusicPC/blob/main/ScreenShot_2026-10-20_132503_362.png)
+![青听音乐界面](https://github.com/kejichangqing/QingMusicPC/blob/main/ScreenShot_2026-10-20_132521_654.png)
